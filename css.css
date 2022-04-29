@@ -1,0 +1,21 @@
+body { background-color: #FE6F51;
+}
+
+h1   { color: #510F01 ;
+      background: #FF5733;
+      font-size: 250%;
+      text-align: center:
+}
+
+h2   {text-align: center;
+text-decoration: underline;
+color: #510F01;
+}
+
+p    { color: #510F01 ;
+  font-size: 16px;
+}
+
+img { max-width: 200%;
+ max-height: 200%;
+}
